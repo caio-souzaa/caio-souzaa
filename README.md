@@ -4,8 +4,8 @@
 - 🌱 Estudando front-end
 
 <div align="center">
-  <a width="48%" href="https://github.com/caio-souzaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-souzaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a  href="https://github.com/caio-souzaa">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-souzaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-souzaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
