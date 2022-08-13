@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii! Sou o Caio 👋
 
 - 🔭 Atualmente trabalho como Jovem Aprendiz fora da área de programação!
 - 🌱 Estudando front-end
